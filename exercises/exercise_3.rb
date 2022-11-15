@@ -13,8 +13,3 @@ puts "----------"
 
 puts "exercise 3 count : #{Store.count}"
 
-=begin Exercise 3: Delete the third store
-
-1. Load the third store (into `@store3`) as you did the other two before.
-2. Using Active Record's `destroy` method, delete the store from the database.
-=end 3. Verify that the store has been deleted by again outputting (`puts`ing) the `count` (as you did in Exercise 1.)

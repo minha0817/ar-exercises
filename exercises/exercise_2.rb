@@ -11,6 +11,6 @@ puts "----------"
 
 @store2 = Store.find(2)
 
-@store1.name = "Surrey"
+@store1.name = "Korea"
 
 @store1.save
